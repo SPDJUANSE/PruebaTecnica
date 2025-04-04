@@ -1,4 +1,4 @@
-# # Prueba Técnica - [Nombre del Proyecto]
+# # Prueba Técnica - Juan Sebastian Garcia Porras
 
 ## Índice
 - [Introducción](#introducción)
