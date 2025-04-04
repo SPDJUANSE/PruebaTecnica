@@ -14,7 +14,7 @@
 ## Introducción
 Este repositorio contiene la solución a la prueba técnica dividida en tres partes:
 1. **Práctico Opción 1:** Aplicación en Java que implementa tres ejercicios (Euclides, arrays y cajero automático) ejecutados desde el método `main`.  
-2. **Práctico 2:** API desarrollada con Spring Boot y Lombok, completamente testeable.  
+2. **Práctico 2:** API desarrollada con Spring Boot y Lombok, debido a que el link del drive con los archvios estaba caido simule mi propio archivo para hacer las pruebas
 3. **Interfaz Web:** Proyecto en React que consume la API desarrollada en el Práctico 2.
 
 ## Estructura del Proyecto
