@@ -86,10 +86,7 @@ public class Main extends JFrame {
         add(btnSalir);
 
     }
-
-
-
-
+    
     public static int mcd(int a, int b){
         while(b != 0){
             int temp = b;
